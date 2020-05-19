@@ -1,4 +1,4 @@
-                                 Sentiment Classification and Opinion Mining on Airline Reviews
+                                    Sentiment Classification and Opinion Mining on Airline Reviews
 
 
 Category: Artificial Intelligence Skills Required: Python Web Frame Works,Data Preprocessing Techniques,NLP,Flask Integration
